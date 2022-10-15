@@ -17,7 +17,7 @@ http.onload = function(){
 					   <p class="sexo">estado : ${item.estado}</p>
 					   <p class="description">cualidades : ${item.cualidades}</p>
 					   <p class="price"><span>${item.edad}</span><span> Años</span></p>
-					   <p class="cart">Adobtame <i class="bx bx-cart-alt"></i></p>
+					   <p class="cart">Adoptame <i class="bx bx-cart-alt"></i></p>
 					</div>`;
 			 
 			  }
